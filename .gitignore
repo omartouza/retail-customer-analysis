@@ -1,0 +1,19 @@
+# Raw data (download from UCI: https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+data/raw/
+data/processed/
+
+# Keep Tableau extracts tracked — needed to reproduce the dashboard locally
+!dashboard/tableau_data/
+!dashboard/tableau_data/*.csv
+
+# System / editor noise
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+
+# Don't track raw xlsx anywhere
+*.xlsx
