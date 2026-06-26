@@ -1,3 +1,5 @@
+![CI](https://github.com/omartouza/retail-customer-analysis/actions/workflows/notebooks-ci.yml/badge.svg)
+
 # Retail Customer Analysis
 
 End-to-end customer analytics on the **UCI Online Retail II** dataset (1M+ transactions, 5,852 customers, 43 countries). The project moves from raw data to a published interactive dashboard, answering four business questions:
